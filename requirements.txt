@@ -18,7 +18,7 @@ cpf3d==1.0.0
     # via -r requirements.in
 cycler==0.12.1
     # via matplotlib
-fonttools==4.49.0
+fonttools==4.60.2
     # via matplotlib
 grapheme==0.6.0
     # via alive-progress
@@ -28,7 +28,7 @@ kiwisolver==1.4.5
     # via matplotlib
 matplotlib==3.7.5
     # via -r requirements.in
-numpy==1.24.4
+numpy==1.26.4
     # via
     #   -r requirements.in
     #   contourpy
@@ -36,7 +36,7 @@ numpy==1.24.4
     #   matplotlib
 packaging==23.2
     # via matplotlib
-pillow==10.2.0
+pillow==12.3.0
     # via matplotlib
 pyparsing==3.1.1
     # via matplotlib

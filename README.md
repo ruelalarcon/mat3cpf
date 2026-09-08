@@ -4,7 +4,7 @@
 
 ## Installation
 
-To use Mat3CPF, you need to have Python 3 (Tested on 3.8) installed on your system. Clone this repository and install the required dependencies:
+To use Mat3CPF, you need to have Python 3.10 or newer installed on your system. Clone this repository and install the required dependencies:
 
 ```bash
 git clone https://github.com/ruelalarcon/mat3cpf.git
